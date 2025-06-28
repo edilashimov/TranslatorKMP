@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+
+# Gradle build system
+.gradle/
+build/
+buildSrc/.gradle/
