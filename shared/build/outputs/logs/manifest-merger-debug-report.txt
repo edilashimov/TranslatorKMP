@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml:2:13-3:56
+INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml:2:13-3:56
+INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml:2:13-3:56
+	package
+		ADDED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml:3:16-53
+		INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+		INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+	xmlns:android
+		ADDED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml:2:23-81
+uses-sdk
+INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml reason: use-sdk injection requested
+INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+	android:targetSdkVersion
+		INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+		ADDED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+		INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+	android:minSdkVersion
+		INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+		ADDED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
+		INJECTED from /Users/edilashimov/AndroidStudioProjects/TranslatorKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8411234723467250202.xml
