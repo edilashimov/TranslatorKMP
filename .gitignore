@@ -1,7 +1,28 @@
 # macOS system files
 .DS_Store
 
-# Gradle build system
+# Gradle build cache
 .gradle/
-build/
 buildSrc/.gradle/
+**/build/
+
+# Kotlin compilation caches
+**/build/kotlin/
+**/build/tmp/
+**/build/intermediates/
+**/buildOutputCleanup/
+
+# APK files
+*.apk
+
+# Kotlin/Java compilation artifacts
+*.class
+*.jar
+*.bin
+*.lock
+*.tab
+*.keystream
+*.keystream.len
+*.len
+*.values.at
+*_i
