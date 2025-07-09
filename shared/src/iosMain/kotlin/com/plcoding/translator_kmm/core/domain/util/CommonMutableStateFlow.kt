@@ -12,8 +12,10 @@ actual class CommonMutableStateFlow<T> actual constructor(
         get() = flow.subscriptionCount
 
     override var value: T
-        get() = TODO("Not yet implemented")
-        set(value) {}
+        get() = flow.value
+        set(value) {
+            flow.value = value
+        }
 
     override fun compareAndSet(expect: T, update: T): Boolean {
         return flow.compareAndSet(expect, update)
