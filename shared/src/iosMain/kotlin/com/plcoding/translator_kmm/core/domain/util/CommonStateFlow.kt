@@ -1,7 +1,6 @@
 package com.plcoding.translator_kmm.core.domain.util
 
 import kotlinx.coroutines.flow.StateFlow
-import com.plcoding.translator_kmm.core.domain.util.CommonFlow
 import kotlinx.coroutines.flow.FlowCollector
 
 actual open class CommonStateFlow<T> actual constructor(
